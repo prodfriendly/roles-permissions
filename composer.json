@@ -1,8 +1,8 @@
 {
-    "name": "prod-coders/roles-permissions",
+    "name": "prodcoders/roles-permissions",
     "description": "Laravel roles and permissions",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Valerii Petrov",
